@@ -4,7 +4,7 @@ In this independent exploration, I set out to uncover interesting trends/pattern
 
 The open-source Olympics data from Kaggle spans 120 years (1896 to 2016).
 
-### Variables of interest include:
+### Variables of interest:
 Athlete name, sex, height, weight
 NOC (National Olympic Committee)
 Games (formatted as “Year Season”, ex. “1992 Summer”)
@@ -17,6 +17,7 @@ Medal (received or not)
 
 ### Necessary libraries: 
 pandas, numpy, scipy, plotly, matplotlib.pyplot, seaborn
+
 ### Next steps: 
 Data cleaning, imputing missing values, dropping unnecessary variables, converting variable types:
 
@@ -32,8 +33,8 @@ Given my client’s interest in female athletes, it is only appropriate to under
 - Only 1.89% of all participants were female in 1900 compared with 45.02% in 2016.
 - There was a large jump in 1976 (~5%, slope = 1.28). This can be explained by the addition of several female sports in the Olympics.
 
-### Approach #1: Medal Count
-Medalists often gain lots of attention in their home countries.
+### Approaches: Medal and Participant Count
+Medalists often gain lots of attention in their home countries. It's also important to track female participation by country to identify emerging talent. 
 
 #### Key Insights:
 - Bahrain led in female medals in 2012 and 2016. These successes can empower younger generations, leading to increased participation in sports. Bahrain’s athlete count has been on the up and the pattern is projected to continue.
@@ -41,13 +42,10 @@ Medalists often gain lots of attention in their home countries.
 
 Both the Serbian Volleyball and Bahrain Athletics teams can prove valuable targets for a new campaign.
 
-In terms of individual medals, I identified 15-year-old gold medalist and diver, Qian, as a potential star.
+- 15-year-old gold medalist and diver, Qian, is as a potential star.
+- The top performing young female Korean athlete in speed skating is Shim Seok-Hui, who won 3 medals in 2014 at the age of 17.
 
-### Approach #2: Participant Count
-The second method involves investigating countries that have experienced increased female participation in the Olympics after the year 2000.
-
-#### Key Insights:
-- The top performing young female Korean athlete in speed skating is Shim Seok-Hui, who won 3 medals in 2014 at the age of 17. This sort of young talent is what we need!
+This sort of young talent is what we need!
 
 #### Conclusion:
 This analysis offers my client an opportunity to expand into new markets in different regions of the world: Europe, the Middle East, and Asia. They can look into stocking products related to volleyball, athletics, and skating to align with their goals of increasing brand visibility and customer base.
