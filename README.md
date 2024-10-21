@@ -10,8 +10,8 @@ Athlete name, sex, height, weight, NOC (National Olympic Committee), Games (form
 ### Necessary libraries: 
 pandas, numpy, scipy, plotly, matplotlib.pyplot, seaborn
 
-### Next steps: 
-Data cleaning, imputing missing values, dropping unnecessary variables, converting variable types:
+### Data Cleaning: 
+Imputing missing values, dropping unnecessary variables, converting variable types
 
 ### Highlights
 - Winter Olympics began in 1924, explaining the lack of prior data.
