@@ -5,15 +5,7 @@ In this independent exploration, I set out to uncover interesting trends/pattern
 The open-source Olympics data from Kaggle spans 120 years (1896 to 2016).
 
 ### Variables of interest:
-Athlete name, sex, height, weight
-NOC (National Olympic Committee)
-Games (formatted as “Year Season”, ex. “1992 Summer”)
-Year
-Season (Summer or Winter)
-City (host city)
-Sport
-Event (specific event name within sport category)
-Medal (received or not)
+Athlete name, sex, height, weight, NOC (National Olympic Committee), Games (formatted as “Year Season”, ex. “1992 Summer”), Year, Season (Summer or Winter), City (host city), Sport, Event (specific event name within sport category), Medal (received or not)
 
 ### Necessary libraries: 
 pandas, numpy, scipy, plotly, matplotlib.pyplot, seaborn
