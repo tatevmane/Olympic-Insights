@@ -39,7 +39,7 @@ Both the Serbian Volleyball and Bahrain Athletics teams can prove valuable targe
 
 This sort of young talent is what we need!
 
-#### Conclusion:
+### Conclusion:
 This analysis offers my client an opportunity to expand into new markets in different regions of the world: Europe, the Middle East, and Asia. They can look into stocking products related to volleyball, athletics, and skating to align with their goals of increasing brand visibility and customer base.
 
 ### Future Directions:
