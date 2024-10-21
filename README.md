@@ -2,6 +2,10 @@
 
 In this independent exploration, I set out to uncover interesting trends/patterns in historical data and identify potential opportunities for a hypothetical client, which I have assumed to be a sports apparel company. The goal is to inform their expansion into new international markets, improving brand visibility and obtaining a wider customer base. Specifically, I am tasked with identifying emerging success in female sports demonstrating promising sponsorship potential.
 
+### Repo Contents:
+- Full Python ipynb script
+- Client presentation slides
+
 The open-source Olympics data from Kaggle spans 120 years (1896 to 2016).
 
 ### Variables of interest:
